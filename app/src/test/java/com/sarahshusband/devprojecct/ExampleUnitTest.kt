@@ -1,4 +1,4 @@
-package com.sarahshusband.devprojecct
+package com.sarahshusband.DevProject
 
 import org.junit.Test
 
